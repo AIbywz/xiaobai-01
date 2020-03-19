@@ -1,11 +1,6 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    },
-    {
       "title": "xxxx",
       "author": "yyyy",
       "id": 3
@@ -19,15 +14,19 @@
       "title": "title222",
       "author": "author111",
       "id": 6
-    }
-  ],
-  "comments": [
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "title11",
+      "author": "yyyy",
+      "id": 8
+    },
+    {
+      "title": "title22",
+      "author": "bbbb",
+      "id": 9
     }
   ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
